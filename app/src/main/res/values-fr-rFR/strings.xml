@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalutMonde</string>
+    <string name="primera_etiqueta">Bienvenue</string>
+    <string name="segunda_etiqueta">Entrer</string>
+</resources>
